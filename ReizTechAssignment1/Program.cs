@@ -50,7 +50,7 @@
                 }
                 break;
             }
-            Console.WriteLine($"The Lesser Angle of Hour {hour} and Minute {minute} is {lesserAngleCalculator(hour, minute)}");//asd
+            Console.WriteLine($"The Lesser Angle of Hour {hour} and Minute {minute} is {lesserAngleCalculator(hour, minute)}");
         }
     }
 }
